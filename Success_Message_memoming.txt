@@ -4,6 +4,7 @@
 	# message
 	# 안녕하세요, 메모밍입니다 ^~^
 	# Github
+	# 한줄을 추가 
 
 	# Youtube 메모밍 채널로 오시면 
 	# 더욱 다양한 여러가지 프로그래밍에 관련된 영상들을
@@ -12,8 +13,3 @@
 
 	# Contact
 	# E-mail   :   memoming@naver.com
-dddddd
-
-
-fsfs
-fsfs
